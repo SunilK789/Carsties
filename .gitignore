@@ -8,3 +8,6 @@
 /.vs/Carsties/v17
 /src/AuctionService/bin/Debug/net9.0
 /src/AuctionService/obj
+/.vs/Carsties/config
+/AuctionService/obj/Debug/net8.0
+/AuctionService/obj
