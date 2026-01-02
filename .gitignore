@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Carsties/CopilotIndices/17.12.38.29086/CodeChunks.db
+/.vs/Carsties/CopilotIndices/17.12.38.29086
+/.vs/Carsties/FileContentIndex
+/.vs/Carsties/v17
+/src/AuctionService/bin/Debug/net9.0
+/src/AuctionService/obj
