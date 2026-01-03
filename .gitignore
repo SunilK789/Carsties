@@ -32,3 +32,4 @@
 /AuctionService/bin/Debug/net8.0/AuctionService.pdb
 /AuctionService/bin/Debug/net8.0/AuctionService.runtimeconfig.json
 
+*.v2
