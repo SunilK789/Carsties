@@ -33,3 +33,6 @@
 /AuctionService/bin/Debug/net8.0/AuctionService.runtimeconfig.json
 
 *.v2
+/SearchService/bin/Debug/net8.0
+/SearchService/obj/Debug/net8.0
+/SearchService/obj
